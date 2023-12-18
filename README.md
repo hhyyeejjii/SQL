@@ -1,10 +1,16 @@
 # SQL
 ### PROGRAMMERS
-![initial]("https://www.ketchum.edu/sites/default/files/2022-08/First%20%28Top%29%20Image%20.jpeg")
+![initial]("https://i.ibb.co/cthF64s/image.jpg")
 
 - Self study with SQL 🧩
 - Upload Everyday ☠️
 
 
 
+
 -------------------------------------------------------
+**DREAM**
+
+*Complete all the problems on the website !!*
+
+>Faithfulness makes all things possible
