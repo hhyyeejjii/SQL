@@ -1,0 +1,6 @@
+-- 12세 이하인 여자 환자 목록 출력하기
+SELECT PT_NAME, PT_NO, GEND_CD, AGE, IFNULL(TLNO, 'NONE') AS TLNO FROM PATIENT
+    WHERE AGE<=12 AND GEND_CD = 'W'
+    ORDER BY AGE DESC, PT_NAME
+-- IFNULL = NULL을 NONE 으로 대체
+-- 환자 이름 정렬까지 까먹지 않기
