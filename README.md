@@ -1,6 +1,6 @@
 # SQL
 ### PROGRAMMERS
-![initial]("https://i.pinimg.com/564x/48/8b/87/488b8708600e98fc45382426118b5baf.jpg")
+![initial]("https://i.pinimg.com/564x/31/66/26/31662617bde076ed7f898ed03aab506c.jpg")
 
 - Self study with SQL 🧩
 - Upload Everyday ☠️
