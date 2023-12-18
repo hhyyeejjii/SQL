@@ -1,10 +1,9 @@
 # SQL
 ### PROGRAMMERS
-![initial]("https://i.ibb.co/cthF64s/image.jpg")
+![initial](https://i.ibb.co/cthF64s/image.jpg)
 
-- Self study with SQL 🧩
-- Upload Everyday ☠️
-
+- Self learning SQL 🧩
+- The aim is to make daily uploads ☠️
 
 
 
