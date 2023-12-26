@@ -1,0 +1,5 @@
+-- 상위 n개 레코드
+SELECT NAME FROM ANIMAL_INS 
+ORDER BY DATETIME
+LIMIT 1
+-- limit 1 = 위에서 1개 추출
